@@ -1,0 +1,3 @@
+C:\Users\sa250\OneDrive\Рабочий стол\BRUUH\Bruh lab 1.1\Bruh lab 1.1\obj\Debug\Bruh lab 1.1.njsprojAssemblyReference.cache
+C:\Users\sa250\OneDrive\Рабочий стол\BRUUH\Bruh lab 1.1\Bruh lab 1.1\obj\Debug\Bruh lab 1.1.njsproj.CoreCompileInputs.cache
+C:\Users\sa250\OneDrive\Рабочий стол\BRUUH\Bruh lab 1.1\Bruh lab 1.1\bin\Microsoft.NodejsTools.WebRole.dll

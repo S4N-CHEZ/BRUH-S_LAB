@@ -1,0 +1,52 @@
+body {
+    background: #000 url(wallpaper.jpg);
+    background-size: cover;
+}
+
+.button{
+ cursor: pointer;
+ display: inline-block;
+ text-align: center;
+ white-space: nowrap;
+ font-size: 17px;
+ line-height: 1.17648;
+ font-weight: 400;
+ letter-spacing: -.022em;
+ font-family: "Copperplate";
+ min-width: 28px;
+ padding-left: 16px;
+ padding-right: 16px;
+ padding-top: 8px;
+ padding-bottom: 8px;
+ border-radius: 18px;
+ background: rgb(92, 92, 92);
+ color: #fff;
+}
+
+.button:hover{
+ color: black
+}
+
+h2{
+    text-shadow: white 1px 1px 0, white -1px -1px 0, 
+                 white -1px 1px 0, white 1px -1px 0;
+
+}
+h3{
+    text-shadow: white 1px 1px 0, white -1px -1px 0, 
+                 white -1px 1px 0, white 1px -1px 0;
+
+}
+
+.scale {
+    display: inline-block; /* Строчно-блочный элемент */
+    overflow: hidden; /* Скрываем всё за контуром */
+   }
+   .scale img {
+    transition: 1s; /* Время эффекта */
+    display: block; /* Убираем небольшой отступ снизу */
+   }
+   .scale img:hover {
+    transform: scale(1.2); /* Увеличиваем масштаб */
+   }
+
